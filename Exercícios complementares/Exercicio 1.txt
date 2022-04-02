@@ -1,7 +1,29 @@
 1 - Na sua opnião, lógica de programação é importante? Reflita.
+Sim, muito importante, visto que programação é a lógica utilizada para soluções de problemas buscando ser mais rápido e eficaz.
 
 2 - Crie uma seqüência lógica para ir ao mercado.
+Levantar da cama;
+Escovar os dentes;
+Tomar banho;
+Colocar roupa;
+Colacar calçado;
+Pegar a chave do carro;
+Abrir portal;
+Fechar porta;
+Ligar o carro;
+Seguir viagem;
+Chegue ao mercado;
 
 3 - Faça um algoritmo para somar dois números.
+1+1
+Somar
+Retornar com o resultado
 
 4 - Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes.
+Verificar a lampada que deseja trocar
+Pegar lampada nova
+Pegar escada
+Subir escada
+Retirar lampada antiga
+Colocar lampada nova
+Descer escada
