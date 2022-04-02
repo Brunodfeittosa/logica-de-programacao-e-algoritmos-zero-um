@@ -1,7 +1,29 @@
-A partir de agora, no VisualG, OK?
+Var
+// Seção de Declarações das variáveis 
 
-1 - Faça um algoritmo para somar dois números.
+//Aluno
+Nomealuno: caractere
 
-2 - Faça um algoritmo que calcule a média de um aluno, e apresente o resultado com a mensagem "A media do aluno X foi Y". Troque X pelo nome do aluno, e Y pela nota do aluno.
+//Media no ano
+mediaaluno: real
 
-3 - Exemplifique 2 regras de variáveis do VisualG.
+//Aluno foi aprovado?
+Aprovado: logico
+
+
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+Nomealuno <- "Bruno"
+escreval ("Nome do Aluno: ", nomealuno)
+mediaaluno <- 9,9
+escreval ("Média do aluno no ano: ", mediaaluno)
+aprovado <- verdadeiro
+escreval ("Aluno aprovado?: ", aprovado)
+
+
+
+
+Fimalgoritmo
